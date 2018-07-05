@@ -146,5 +146,3 @@ Consumers of this topic DO block on the current record using a RetryTemplate wit
 policy until the circuit becomes closed. I think this reflects traditional usages of Kafka consumers 
 more closely. If the circuit never closes within a specified time, then it is escalated to the DLQ.
 
-## References
-"Do we backup our kafka topics?" Chiu, Felix. Lync. 17 May 2018 2:40 PM PST.
