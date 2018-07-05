@@ -14,7 +14,7 @@ import java.util.Map;
 
 @Validated
 @Configuration
-@ConfigurationProperties(prefix = "platformnexus.app.retry")
+@ConfigurationProperties(prefix = "platformnexus.retry")
 public class RetryConfig implements InitializingBean {
 
   /*
