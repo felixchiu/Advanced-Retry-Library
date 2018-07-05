@@ -6,7 +6,6 @@
 - [Motivations](#motivations)
 - [Design Considerations](#design-considerations)
 - [Discussion](#discussion)
-- [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
