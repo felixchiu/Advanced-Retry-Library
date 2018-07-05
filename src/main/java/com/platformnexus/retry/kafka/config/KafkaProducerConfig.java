@@ -13,11 +13,6 @@ import org.springframework.kafka.core.ProducerFactory;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by gidigo on 17/01/2018.
- * Config class to expose default kafka producer template and enhance default
- * kafka producer as required.
- */
 @Configuration
 @Import(KafkaConfig.class)
 public class KafkaProducerConfig {
